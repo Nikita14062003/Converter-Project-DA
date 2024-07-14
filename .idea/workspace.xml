@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d32cb948-cc3f-4601-b7ee-507759704718" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2bRuyCW6TP2nPfJ4p5ZRxfKYLuF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Frame1.executor": "Run",
+    "Application.Frame2.executor": "Run",
+    "Application.Frame3.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Main2.executor": "Run",
+    "Application.Main3.executor": "Run",
+    "Application.converter.executor": "Run",
+    "Application.login.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/VI Sem Projects/ATM-Simulator-System-master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d32cb948-cc3f-4601-b7ee-507759704718" name="Changes" comment="" />
+      <created>1706190467126</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706190467126</updated>
+      <workItem from="1706190468175" duration="5277000" />
+      <workItem from="1706195787798" duration="55000" />
+      <workItem from="1706248690549" duration="295000" />
+      <workItem from="1706274718949" duration="1025000" />
+      <workItem from="1706276076470" duration="387000" />
+      <workItem from="1706276484010" duration="3019000" />
+      <workItem from="1706279529723" duration="771000" />
+      <workItem from="1706324753720" duration="4020000" />
+      <workItem from="1706366469039" duration="688000" />
+      <workItem from="1706367202164" duration="73000" />
+      <workItem from="1706369831813" duration="632000" />
+      <workItem from="1706370487121" duration="2689000" />
+      <workItem from="1706713512072" duration="609000" />
+      <workItem from="1706756538064" duration="38000" />
+      <workItem from="1706756629251" duration="722000" />
+      <workItem from="1706757405431" duration="631000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
